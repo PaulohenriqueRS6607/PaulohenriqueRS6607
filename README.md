@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou o Paulo</h1>
+<h1 align="center">Olá 👋, sou o Paulo Henrique</h1>
 <h3 align="center">Estou aprendendo programação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulohenriquers6607&label=Profile%20views&color=0e75b6&style=flat" alt="paulohenriquers6607" /> </p>

@@ -70,30 +70,6 @@ const pauloHenrique = {
 
 </div>
 ```
----
-
-### 💻 **Ferramentas Adicionais**
-```typescript
-interface Desenvolvedor {
-  local: string;
-  foco: string;
-  ferramentas: string[];
-  experiencia: {
-    anos: number;
-    projetos: number;
-  };
-}
-
-const desenvolvedor: Desenvolvedor = {
-  local: "São Paulo, Brasil",
-  foco: "Desenvolvimento Full Stack",
-  ferramentas: ["VS Code", "Git", "Docker", "Postman"],
-  experiencia: {
-    anos: 3,
-    projetos: 15,
-  },
-};
-```
 
 ---
 

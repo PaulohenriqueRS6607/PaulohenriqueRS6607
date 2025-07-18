@@ -54,6 +54,29 @@ const pauloHenrique = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </div>
 
+### 💻 **Ferramentas Adicionais**
+```typescript
+interface Desenvolvedor {
+  local: string;
+  foco: string;
+  ferramentas: string[];
+  experiencia: {
+    anos: number;
+    projetos: number;
+  };
+}
+
+const desenvolvedor: Desenvolvedor = {
+  local: "São Paulo, Brasil",
+  foco: "Desenvolvimento Full Stack",
+  ferramentas: ["VS Code", "Git", "Docker", "Postman"],
+  experiencia: {
+    anos: 3,
+    projetos: 15,
+  },
+};
+```
+
 ---
 
 ## 🎯 Competências Profissionais
@@ -67,8 +90,6 @@ const pauloHenrique = {
 - ✅ **SPAs Modernas** - React + TypeScript + Vite
 - ✅ **Responsive Design** - Interfaces adaptáveis
 - ✅ **Clean Code** - Código limpo e mantível
-- ✅ **Instalação de Sistemas Operacionais** - Configuração e otimização de SOs (Windows, Linux)
-- ✅ **Manutenção de Hardware** - Montagem, limpeza e melhoria de computadores
 
 </td>
 <td width="50%">

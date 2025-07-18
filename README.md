@@ -1,14 +1,17 @@
-
-```markdown
+````markdown
 # 🚀 Paulo Henrique - Desenvolvedor Full Stack
+
 <div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00D9FF¢er=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Paulo+Henrique!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Apaixonado+por+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Paulo+Henrique!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Apaixonado+por+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
 ---
 
 ## 🌟 Sobre Mim
-```typescript
+
+```ts
 const pauloHenrique = {
   nome: "Paulo Henrique",
   local: "São Paulo, Brasil 🇧🇷",
@@ -17,43 +20,55 @@ const pauloHenrique = {
   objetivo: "Criar soluções inovadoras e impactantes",
   paixao: "Transformar ideias em código funcional"
 };
-```
+````
 
-### 💡 **"Cada linha de código é uma oportunidade de criar algo incrível"**
+### 💡 "Cada linha de código é uma oportunidade de criar algo incrível"
 
 ---
 
 ## 🛠️ Arsenal Tecnológico
 
-### 🎯 **Frontend Development**
+### 🎯 Frontend Development
+
 <div align="center">
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+
 </div>
 
-### 🔧 **Backend Development**
+### 🔧 Backend Development
+
 <div align="center">
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
 </div>
 
-### 🔄 **Controle de Versão & Colaboração**
+### 🔄 Controle de Versão & Colaboração
+
 <div align="center">
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
 </div>
 
-### 🎨 **Design & Prototipagem**
-<div align="center">
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-</div>
+### 🎨 Design & Prototipagem
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+```
 ### 💻 **Ferramentas Adicionais**
 ```typescript
 interface Desenvolvedor {

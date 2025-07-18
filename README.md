@@ -1,23 +1,117 @@
-<h1 align="center">Olá 👋, sou o Paulo Henrique</h1>
-<h3 align="center">Estou aprendendo programação</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulohenriquers6607&label=Profile%20views&color=0e75b6&style=flat" alt="paulohenriquers6607" /> </p>
+```markdown
+# 🚀 Paulo Henrique - Desenvolvedor Full Stack
+<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00D9FF¢er=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Paulo+Henrique!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Apaixonado+por+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulohenriquers6607" alt="paulohenriquers6607" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🌟 Sobre Mim
+```typescript
+const pauloHenrique = {
+  nome: "Paulo Henrique",
+  local: "São Paulo, Brasil 🇧🇷",
+  educacao: "Senai Santo Amaro - Suíço-Brasileira",
+  foco: "Desenvolvimento Full Stack",
+  objetivo: "Criar soluções inovadoras e impactantes",
+  paixao: "Transformar ideias em código funcional"
+};
+```
 
-- Atualmente estou estudando **Senai Santo Amaro - Suíço-Brasileira**
+### 💡 **"Cada linha de código é uma oportunidade de criar algo incrível"**
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" largura="40" altura="40"/> </a> </p>
+## 🛠️ Arsenal Tecnológico
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulohenriquers6607&show_icons=true&locale=en&layout=compact" alt="paulohenriquers6607" /></p>
+### 🎯 **Frontend Development**
+<div align="center">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+</div>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulohenriquers6607&show_icons=true&locale=en" alt="paulohenriquers6607" /></p>
+### 🔧 **Backend Development**
+<div align="center">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulohenriquers6607&" alt="paulohenriquers6607" /></p>
+### 🔄 **Controle de Versão & Colaboração**
+<div align="center">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+</div>
+
+### 🎨 **Design & Prototipagem**
+<div align="center">
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
+
+---
+
+## 🎯 Competências Profissionais
+<table>
+<tr>
+<td width="50%">
+
+### 💻 **Desenvolvimento Técnico**
+- ✅ **Arquitetura Full Stack** - Criação de aplicações completas
+- ✅ **APIs RESTful** - Desenvolvimento com Spring Boot
+- ✅ **SPAs Modernas** - React + TypeScript + Vite
+- ✅ **Responsive Design** - Interfaces adaptáveis
+- ✅ **Clean Code** - Código limpo e mantível
+- ✅ **Instalação de Sistemas Operacionais** - Configuração e otimização de SOs (Windows, Linux)
+- ✅ **Manutenção de Hardware** - Montagem, limpeza e melhoria de computadores
+
+</td>
+<td width="50%">
+
+### 👥 **Soft Skills**
+- ✅ **Comunicação** - Alinhamento claro de objetivos
+- ✅ **Adaptabilidade** - Flexibilidade às mudanças
+- ✅ **Aprendizado Contínuo** - Sempre evoluindo
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Estatísticas GitHub
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohenriquers6607&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquers6607&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulohenriquers6607&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🌐 **Redes Sociais & Profissionais**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-b35305328)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulohenriquers6607)
+
+### 💼 **Portfólio & Projetos**
+[![Portfolio](https://img.shields.io/badge/Portfolio%20EM%20PRODUÇÃO!!!-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]
+
+---
+
+### 📍 **Informações de Contato**
+- 📧 **Email:** paulohenrique6607@gmail.com
+- 🌍 **Localização:** São Paulo, SP - Brasil
+- 🌐 **Idiomas:** Português, Inglês (básico)
+
+<div align="center">
+---
+<div align="center">
+<i>⚡ "Programar é como resolver um quebra-cabeça gigante onde cada peça é uma linha de código que se encaixa perfeitamente para criar algo extraordinário!" ⚡</i>
+</div>
+```

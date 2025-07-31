@@ -27,7 +27,7 @@ const pauloHenrique = {
 
 ---
 
-🛠️ Arsenal Tecnológico
+🧰 Arsenal Tecnológico
 
 ---
 
@@ -51,7 +51,7 @@ const pauloHenrique = {
 
 ---
 
-🧰 Tecnologias & Ferramentas
+🛠️ Ferramentas
 <div align="center"> <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,mysql,php" /> <img src="https://img.shields.io/badge/phpMyAdmin-6c78af?style=for-the-badge&logo=phpmyadmin&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> </div>
 
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=5e5e5e&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Paulo+Henrique!+%F0%9F%91%8B" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=5e5e5e&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Paulo+Henrique!+%F0%9F%91%8B" alt="Typing animation"/>
 
 
 

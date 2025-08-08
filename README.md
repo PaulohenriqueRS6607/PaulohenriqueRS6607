@@ -21,7 +21,7 @@ const pauloHenrique = {
   local: "São Paulo, Brasil 🇧🇷",
   educacao: "Senai Santo Amaro - Suíço-Brasileira",
   foco: "Desenvolvimento Full Stack",
-  objetivo: "Buscando meu espaço na área da tecnologia"
+  objetivo: "Buscando meu espaço na área de tecnologia"
 };
 ````
 
@@ -57,20 +57,6 @@ const pauloHenrique = {
 
 ---
 
-## 🎯 Competências Profissionais
-<table>
-<tr>
-<td width="50%">
-
-### 💻 **Desenvolvimento Técnico**
-- ✅ **Arquitetura Full Stack** - Criação de aplicações completas
-- ✅ **APIs RESTful** - Desenvolvimento com Spring Boot
-- ✅ **SPAs Modernas** - React + TypeScript + Vite
-- ✅ **Responsive Design** - Interfaces adaptáveis
-- ✅ **Clean Code** - Código limpo e mantível
-
-</td>
-<td width="50%">
 
 ### 👥 **Soft Skills**
 - ✅ **Comunicação** - Alinhamento claro de objetivos

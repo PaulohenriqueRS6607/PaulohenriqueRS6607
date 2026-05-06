@@ -92,8 +92,8 @@ const pauloHenrique = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulohenriquers6607)
 
 ### 💼 **Portfólio & Projetos**
-![Portfolio]([https://img.shields.io/badge/Portfolio%20EM%20PRODUÇÃO!!!-FF5722?style=for-the-badge&logo=todoist&logoColor=white](https://moonlit-daffodil-74b422.netlify.app/))
 
+[![Portfolio](https://img.shields.io/badge/🚀%20Ver%20Portfólio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://moonlit-daffodil-74b422.netlify.app/)
 ---
 
 ### 📍 **Informações de Contato**

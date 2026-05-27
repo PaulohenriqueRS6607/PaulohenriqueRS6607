@@ -93,8 +93,9 @@ const pauloHenrique = {
 
 ### 💼 **Portfólio & Projetos**
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Ver%20Portfólio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)]([https://moonlit-daffodil-74b422.netlify.app/](https://shiny-centaur-9243c8.netlify.app/))
----
+[![Portfolio](https://img.shields.io/badge/🚀%20Ver%20Portfólio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://shiny-centaur-9243c8.netlify.app/)---
+
+
 
 ### 📍 **Informações de Contato**
 - 📧 **Email:** paulohenrique6607@gmail.com
